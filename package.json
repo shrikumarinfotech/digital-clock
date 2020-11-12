@@ -1,0 +1,11 @@
+{
+  "name": "digital-clock",
+  "version": "1.0.0",
+  "description": "Display digital clock",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dev@shrikumarinfotech.com",
+  "license": "GPLv2.0 or later"
+}
