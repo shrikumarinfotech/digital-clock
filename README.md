@@ -5,6 +5,7 @@ This is a clock plugin made with JavaScript that displays clock in your local ti
 
 ## npm usage
 Install package with `npm install --save digital-clock`
+(Note: npm package has not published yet, you can download and use it manually till we upload it into npm library.)
 
 ```
 // import giditalClock plugin
@@ -75,5 +76,5 @@ Sample HTML file:
 
 # Live URL
 ```
-
+https://shrikumarinfotech.github.io/digital-clock/
 ```
