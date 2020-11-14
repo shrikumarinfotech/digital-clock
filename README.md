@@ -75,6 +75,7 @@ Sample HTML file:
 ```
 
 # Live URL
+<a href="https://shrikumarinfotech.github.io/digital-clock/" target="_blank">https://shrikumarinfotech.github.io/digital-clock/</a>
 ```
 https://shrikumarinfotech.github.io/digital-clock/
 ```
